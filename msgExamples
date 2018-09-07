@@ -1,0 +1,41 @@
+00GETID
+
+10VOID
+
+1[1-4]{id=0,....,role=miner}
+
+20filename // DEPRECADO!
+
+21(INPUT_HASH)
+
+22(BLOCK_HASH)
+
+23(CHAIN_HASH)
+
+30filename._avoidednode
+
+31filename
+
+32selftracker
+
+33fromnode._tonode._msg
+msg = 4X*-payload
+
+34fromnode._tonode._msg
+msg = 4X*-payload
+
+35nodetoeliminate
+
+36selfnode
+
+37fromtraker._nropeers
+
+38selfnode._ownvote
+
+39listofvotes
+
+3awinner
+
+3bVOID
+
+3cmsgtostream
